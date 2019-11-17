@@ -1,7 +1,7 @@
 # spider
-spider for maoyan and douban website.
+spider for maoyan, douban, meizi.info website.
 
-用于爬取猫眼电影top100榜单，以及豆瓣读书某类书籍具体信息的python爬虫程序，持续更新中。
+用于爬取猫眼电影top100榜单、豆瓣读书某类书籍具体信息、meizi.info图片的python爬虫程序，持续更新中。
 
 ## File structure
 > spider code
